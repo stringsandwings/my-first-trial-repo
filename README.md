@@ -1,2 +1,3 @@
-# my-first-trial-repo
-Trial
+# My First Trial Repo
+
+This repo contains meaningless junk. :)
